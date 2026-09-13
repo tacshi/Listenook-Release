@@ -1,0 +1,51 @@
+{
+  "schema": 1,
+  "version": "1.7.2",
+  "build": 37,
+  "releasedAt": "2026-09-13T07:58:29.855223Z",
+  "notesUrl": "https://github.com/tacshi/Listenook-Release/releases/tag/v1.7.2",
+  "platforms": {
+    "macos-arm64": {
+      "version": "1.7.2",
+      "build": 37,
+      "releasedAt": "2026-09-13T07:58:29.855223Z",
+      "notesUrl": "https://github.com/tacshi/Listenook-Release/releases/tag/v1.7.2",
+      "kind": "appZip",
+      "fileName": "Listenook-1.7.2-macos-arm64-release.zip",
+      "size": 64779496,
+      "sha256": "3f4857e11e1c3720be1d19cd5ee1626ee8e11c411661dd63ed14069a130398d3",
+      "url": "https://github.com/tacshi/Listenook-Release/releases/download/v1.7.2/Listenook-1.7.2-macos-arm64-release.zip",
+      "minOsVersion": "12.0"
+    },
+    "macos-x64": {
+      "version": "1.7.2",
+      "build": 37,
+      "releasedAt": "2026-09-13T07:58:29.855223Z",
+      "notesUrl": "https://github.com/tacshi/Listenook-Release/releases/tag/v1.7.2",
+      "kind": "appZip",
+      "fileName": "Listenook-1.7.2-macos-x64-release.zip",
+      "size": 24668386,
+      "sha256": "091ba19bae04f5e89858df8c1d8a9d161d6de3e587c2fa195bd1e9b3d6b41632",
+      "url": "https://github.com/tacshi/Listenook-Release/releases/download/v1.7.2/Listenook-1.7.2-macos-x64-release.zip",
+      "minOsVersion": "12.0"
+    },
+    "windows-x64": {
+      "version": "1.7.2",
+      "build": 37,
+      "releasedAt": "2026-09-13T07:58:29.855223Z",
+      "notesUrl": "https://github.com/tacshi/Listenook-Release/releases/tag/v1.7.2",
+      "kind": "innoSetup",
+      "fileName": "Listenook-1.7.2-windows-x64-release-setup.exe",
+      "size": 29840505,
+      "sha256": "ad9ced6d7ccdcf8b2106fafbd7aa5c216a555e78692bdd42e48d4f99536db61b",
+      "url": "https://github.com/tacshi/Listenook-Release/releases/download/v1.7.2/Listenook-1.7.2-windows-x64-release-setup.exe",
+      "silentArgs": [
+        "/SILENT",
+        "/NOCANCEL",
+        "/NORESTART",
+        "/CLOSEAPPLICATIONS",
+        "/relaunch=1"
+      ]
+    }
+  }
+}
